@@ -37,6 +37,14 @@ body {
   position: fixed;
   top: 80px;
 }
+.HoaBeo
+{
+   color: white;
+  font-size: 50px;
+  position: fixed;
+  top: 80px;
+  right: 30px;
+}
 
 .flowers {
   position: relative;
