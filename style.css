@@ -39,10 +39,10 @@ body {
 }
 .HoaBeo
 {
-   color: white;
+   color: rgba(128, 0, 128, 0.5); /* Màu tím với 50% độ trong suốt */
   font-size: 50px;
   position: fixed;
-  top: 80px;
+  top: 120px;
   right: 30px;
 }
 
